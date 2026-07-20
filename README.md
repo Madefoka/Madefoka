@@ -11,10 +11,10 @@ Live products I've built and run. Source is private (active businesses), but you
 ## 💻 Code / Open source
 Repos you can actually browse:
 
-- **go4fish_app** — landing/redirect layer for the go4fish product, deployed on Cloudflare Pages
-- **ThoughtPal** — Django journaling app ([live demo](https://thoughtpal-django-app.onrender.com/))
-- **djblogger** — Django blogging platform
-- Smaller CRUD apps (ToDo, restaurant menu w/ QR ordering) — Django fundamentals
+- **[go4fish_app](https://github.com/Madefoka/go4fish_app)** — landing/redirect layer for the go4fish product, deployed on Cloudflare Pages
+- **[ThoughtPal](https://github.com/Madefoka/ThoughtPal)** — Django journaling app ([live demo](https://thoughtpal-django-app.onrender.com/))
+- **[django-app-djblogger](https://github.com/Madefoka/django-app-djblogger)** — Django + HTMX blogging platform (Markdown posts, tags, tests)
+- Smaller CRUD apps — **[to-do](https://github.com/Madefoka/Django-todo-app)** and a **[restaurant menu w/ QR ordering](https://github.com/Madefoka/Django-restaurant-app)** — Django fundamentals
 
 ## 🛠️ Stack
 Python · Django · Bootstrap · Tailwind · PostgreSQL · Cloudflare Pages · Render · Railway
