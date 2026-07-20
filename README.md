@@ -20,7 +20,7 @@ Repos you can actually browse:
 Python · Django · Bootstrap · Tailwind · PostgreSQL · Cloudflare Pages · Render · Railway
 
 ## 📫 Reach me
-📧 [radek@studiofrog.pl](mailto:radek@studiofrog.pl)
+📧 [kontakt@studiofrog.pl](mailto:kontakt@studiofrog.pl)
 
 ---
 *Building products people actually use — some open, some private (active businesses).*
