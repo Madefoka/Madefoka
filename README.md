@@ -5,8 +5,8 @@ Fullstack developer (Python/Django) based in Poland. Before code I spent 20 year
 **What I'm building**
 
 - 🎣 **[Go4Fish](https://go4fish.pl/)** — social platform for anglers: Django REST API + React Native/Expo app, live on Google Play and the App Store.
-- 🧠 **Psychoporadnia(https://psychoporadnia.pl/)** — directory of verified psychologists and therapists: Django, PostgreSQL full-text search, Stripe subscriptions.
-- 🌐 **netdlaciebie.pl(https://netdlaciebie.pl/)** — websites for local businesses, from first call to hosting and maintenance.
+- 🧠 **[Psychoporadnia](https://psychoporadnia.pl/)** — directory of verified psychologists and therapists: Django, PostgreSQL full-text search, Stripe subscriptions.
+- 🌐 **[netdlaciebie.pl](https://netdlaciebie.pl/)** — websites for local businesses, from first call to hosting and maintenance.
 
 Most of my production work (Go4Fish backend, Psychoporadnia) lives in private repositories, developed with a feature-branch and pull-request workflow with CI. Happy to walk through the code and PR history during an interview.
 
