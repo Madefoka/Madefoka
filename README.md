@@ -1,26 +1,19 @@
-# Hi, I'm Radek 👋
+### Hi, I'm Radek 👋
 
-Fullstack developer building web & mobile apps end-to-end — from backend (Python/Django) through deployment (Cloudflare, Render, Railway) to app store distribution.
+Fullstack developer (Python/Django) based in Poland. Before code I spent 20 years in advertising and film production — running my own studio as producer and director. That's where I learned to take a project from a brief to a shipped product, on time and on budget. Now I do the same with software.
 
-## 🚀 Products
-Live products I've built and run. Source is private (active businesses), but you can see them in action:
+**What I'm building**
 
-- 🎣 **[go4fish](https://go4fish.pl)** — social platform for anglers: catch feed, records, species, fishing spots, community. Native Android app on [Google Play](https://play.google.com/store/apps/details?id=com.ihavebigger.fishapp) *(React Native/Expo, AI-assisted development)*. Landing/redirect layer: [go4fish.app](https://go4fish.app)
-- 🧠 **[Psychoporadnia.pl](https://psychoporadnia.pl)** — nationwide directory of verified psychologists & psychotherapists, with search by city/specialization and professional accounts for practitioners
+- 🎣 **[Go4Fish](https://go4fish.pl/)** — social platform for anglers: Django REST API + React Native/Expo app, live on Google Play and the App Store.
+- 🧠 **Psychoporadnia** — directory of verified psychologists and therapists: Django, PostgreSQL full-text search, Stripe subscriptions.
+- 🌐 **netdlaciebie.pl** — websites for local businesses, from first call to hosting and maintenance.
 
-## 💻 Code / Open source
-Repos you can actually browse:
+Most of my production work (Go4Fish backend, Psychoporadnia) lives in private repositories, developed with a feature-branch and pull-request workflow with CI. Happy to walk through the code and PR history during an interview.
 
-- **[go4fish_app](https://github.com/Madefoka/go4fish_app)** — landing/redirect layer for the go4fish product, deployed on Cloudflare Pages
-- **[ThoughtPal](https://github.com/Madefoka/ThoughtPal)** — Django journaling app ([live demo](https://thoughtpal-django-app.onrender.com/))
-- **[django-app-djblogger](https://github.com/Madefoka/django-app-djblogger)** — Django + HTMX blogging platform (Markdown posts, tags, tests)
-- Smaller CRUD apps — **[to-do](https://github.com/Madefoka/Django-todo-app)** and a **[restaurant menu w/ QR ordering](https://github.com/Madefoka/Django-restaurant-app)** — Django fundamentals
+**Stack I actually use**
 
-## 🛠️ Stack
-Python · Django · Bootstrap · Tailwind · PostgreSQL · Cloudflare Pages · Render · Railway
+Python · Django · Django REST Framework · PostgreSQL · Celery/Redis · HTMX · Tailwind · React Native/Expo · Docker · Cloudflare · Render
 
-## 📫 Reach me
-📧 [kontakt@studiofrog.pl](mailto:kontakt@studiofrog.pl)
+**Elsewhere**
 
----
-*Building products people actually use — some open, some private (active businesses).*
+[radekj.dev](https://radekj.dev/) · [studiofrog.pl](https://studiofrog.pl/) (film work) · radek@studiofrog.pl
