@@ -16,4 +16,4 @@ Python · Django · Django REST Framework · PostgreSQL · Celery/Redis · HTMX 
 
 **Elsewhere**
 
-[radekj.dev](https://radekj.dev/) · [studiofrog.pl](https://studiofrog.pl/) (film work) · radek@studiofrog.pl
+[radekj.dev](https://radekj.dev/) · [studiofrog.pl](https://studiofrog.pl/) (film work) · kontakt@radekj.dev
